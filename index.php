@@ -1,5 +1,5 @@
 <?php
 
-echo "qwerty!"
+echo "ola mundo!"
 
 ?>
